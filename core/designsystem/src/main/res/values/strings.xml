@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bloom Studio</string>
+    <string name="badge_completed">Завершена</string>
+    <string name="badge_booked">Записана</string>
+    <string name="badge_waitlisted">В листе ожидания</string>
+    <string name="badge_full">Мест нет</string>
+    <string name="badge_seats_available">%1$d мест</string>
+    <string name="cancel_booking_question">Отменить запись?</string>
+    <string name="cancel_booking_body">Место освободится для других участниц.</string>
+    <string name="no_action">Нет</string>
+    <string name="yes_cancel_action">Да, отменить</string>
+</resources>

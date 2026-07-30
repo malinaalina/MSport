@@ -1,0 +1,31 @@
+<resources>
+    <!-- Shared within this feature -->
+    <string name="confirm_action">Подтвердить</string>
+    <string name="error_title">Ошибка</string>
+    <string name="ok_action">OK</string>
+
+    <!-- Phone entry -->
+    <string name="app_tagline">Пространство для тренировок только для женщин</string>
+    <string name="phone_entry_heading">Введите номер телефона</string>
+    <string name="phone_label">НОМЕР ТЕЛЕФОНА</string>
+    <string name="phone_placeholder">+7(***)***-**-**</string>
+    <string name="send_code_action">Отправить код</string>
+    <string name="legal_notice">Продолжая, вы соглашаетесь с условиями использования и политикой конфиденциальности</string>
+
+    <!-- SMS code -->
+    <string name="back_link">← Назад</string>
+    <string name="sms_code_heading">Введите код</string>
+    <string name="sms_code_sent_to">Код отправлен на %1$s</string>
+    <string name="resend_code_action">Отправить код повторно</string>
+
+    <!-- PIN -->
+    <string name="pin_login_heading">Введите ПИН-код</string>
+    <string name="pin_setup_heading">Задайте код для входа</string>
+    <string name="login_action">Войти</string>
+
+    <!-- Errors -->
+    <string name="error_sms_send">Ошибка отправки СМС</string>
+    <string name="error_invalid_code">Неверный код</string>
+    <string name="error_pin">Ошибка ПИН-кода</string>
+    <string name="error_unknown">Unknown error</string>
+</resources>

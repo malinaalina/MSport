@@ -1,0 +1,44 @@
+<resources>
+    <!-- Schedule -->
+    <string name="schedule_title">Расписание</string>
+    <string name="previous_week_description">Предыдущая неделя</string>
+    <string name="next_week_description">Следующая неделя</string>
+    <string name="filter_all">Все</string>
+    <string-array name="class_types">
+        <item>Йога</item>
+        <item>Пилатес</item>
+        <item>Стретчинг</item>
+        <item>Функциональный тренинг</item>
+        <item>Бокс-фитнес</item>
+    </string-array>
+
+    <!-- Class detail -->
+    <string name="back_description">Назад</string>
+    <string name="class_photo_placeholder">фото тренировки</string>
+    <string name="trainer_role_and_hall">Тренер · %1$s</string>
+    <string name="occupied_seats_label">Занято мест</string>
+    <string name="capacity_progress">%1$d из %2$d</string>
+    <string name="action_book">Записаться</string>
+    <string name="action_join_waitlist">Встать в лист ожидания</string>
+    <string name="action_cancel_booking">Отменить запись</string>
+    <string name="action_leave_waitlist">Покинуть лист ожидания</string>
+    <string name="error_title">Ошибка</string>
+    <string name="ok_action">OK</string>
+    <string name="error_no_internet">Нет подключения к интернету. Проверьте соединение и попробуйте снова.</string>
+    <string name="error_unknown">Не удалось выполнить запись. Попробуйте ещё раз.</string>
+
+    <!-- Booking confirmation -->
+    <string name="booking_success_checkmark">✓</string>
+    <string name="booked_title">Вы записаны!</string>
+    <string name="waitlisted_title">Вы в листе ожидания!</string>
+    <string name="booked_subtitle">Ждём вас на тренировке — не опаздывайте.</string>
+    <string name="waitlisted_subtitle">Мы сообщим, как только освободится место.</string>
+    <string name="done_action">Готово</string>
+
+    <!-- My classes -->
+    <string name="my_classes_title">Мои тренировки</string>
+    <string name="tab_upcoming">Предстоящие</string>
+    <string name="tab_past">Прошедшие</string>
+    <string name="empty_upcoming_classes">Пока нет предстоящих тренировок.\nЗагляните в расписание, чтобы записаться.</string>
+    <string name="cancel_link_label">Отменить</string>
+</resources>

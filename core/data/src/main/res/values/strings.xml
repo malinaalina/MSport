@@ -1,0 +1,6 @@
+<resources>
+    <!-- Mock workout defaults -->
+    <string name="default_workout_duration">60 мин</string>
+    <string name="default_workout_description">Групповое занятие в формате, подобранном для любого уровня подготовки. Возьмите с собой воду и коврик (при необходимости) — остальной инвентарь предоставляется студией.</string>
+    <string name="default_workout_attire">Спортивная форма, кроссовки</string>
+</resources>

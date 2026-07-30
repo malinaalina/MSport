@@ -1,0 +1,14 @@
+<resources>
+    <string name="profile_title">Профиль</string>
+    <string name="profile_avatar_initials">ОП</string>
+    <string name="profile_name">Ольга Петрова</string>
+    <string name="profile_default_phone">+7 900 123 45 67</string>
+    <string name="membership_label">АБОНЕМЕНТ</string>
+    <string name="membership_summary">8 занятий · осталось 5</string>
+    <string name="setting_personal_data">Личные данные</string>
+    <string name="setting_payment_method">Способ оплаты</string>
+    <string name="setting_notifications">Уведомления</string>
+    <string name="setting_support">Поддержка</string>
+    <string name="logout_action">Выйти</string>
+    <string name="chevron_forward">›</string>
+</resources>
